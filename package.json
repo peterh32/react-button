@@ -2,7 +2,7 @@
   "name": "react-counter",
   "version": "0.0.4",
   "description": "Minimal react starter project",
-  "main": "src/Counter.js",
+  "main": "www/index.js",
   "scripts": {
     "compile": "webpack",
     "start": "node server.js"

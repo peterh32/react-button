@@ -1,0 +1,8 @@
+{
+  "presets": [
+    "es2015",
+    "react"
+  ]
+}
+// with this included, the REQUIRE in react_eraseme fails.
+// without it, compile and webpack fail in this project.
